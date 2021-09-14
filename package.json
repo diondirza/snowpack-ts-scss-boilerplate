@@ -1,7 +1,6 @@
 {
   "name": "snowpack-ts-scss",
   "version": "0.1.0",
-  "sideEffects": false,
   "engines": {
     "node": ">=14.17.0",
     "npm": ">=7.23.0",
