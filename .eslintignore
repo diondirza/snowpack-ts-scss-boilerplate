@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# build
+build
+
+# test
+coverage
+
+#configs
+.eslintrc.js
+snowpack.config.mjs
+web-test-runner.config.js
